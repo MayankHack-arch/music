@@ -52,7 +52,7 @@ function Instructors() {
   return (
     <div className="relative h-[40rem] overflow-hidden flex items-center justify-center">
         <WavyBackground className="w-full max-w-7xl mx-auto flex flex-col items-center justify center">
-            <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">Meet our instructors</h2>
+            <h2 className="text-base text-red-500 font-semibold tracking-wide uppercase">Meet our instructors</h2>
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">Who will make you what you want</p>
             <div className="flex flex-row items-center justify-center mb-10 w-full">
                 <AnimatedTooltip items={people} />
