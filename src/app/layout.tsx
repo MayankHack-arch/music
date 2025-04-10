@@ -16,7 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Music school",
   description: "Music School is a modern, responsive web application designed for a music education platform offering comprehensive courses across all instruments and age groups. Built with Next.js (App Router) and enhanced using Tailwind CSS and Aceternity UI components, this project delivers a stunning user interface paired with smooth interactions.",
-  icons:'https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=600'
+  icons:{
+    icon:"https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
 };
 
 export default function RootLayout({
