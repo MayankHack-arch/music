@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "slug": "beginner-guitar-course",
+      "title": "Beginner Guitar Course",
+      "description": "Learn the basics of guitar, including chords, strumming, and simple songs.",
+      "price": 49.99,
+      "instructors": ["John Doe"],
+      "isFeatured": true,
+      "image": "https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "slug": "piano-for-beginners",
+      "title": "Piano for Beginners",
+      "description": "A step-by-step guide to learning piano, from reading sheet music to playing melodies.",
+      "price": 59.99,
+      "instructors": ["Jane Smith"],
+      "isFeatured": false,
+      "image": "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "slug": "advanced-music-theory",
+      "title": "Advanced Music Theory",
+      "description": "Deep dive into scales, modes, and harmonic progressions.",
+      "price": 79.99,
+      "instructors": ["Michael Johnson"],
+      "isFeatured": true,
+      "image": "https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 4,
+      "slug": "drumming-essentials",
+      "title": "Drumming Essentials",
+      "description": "Master drum techniques and rhythms for rock, jazz, and pop.",
+      "price": 69.99,
+      "instructors": ["Sarah Lee"],
+      "isFeatured": false,
+      "image": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 5,
+      "slug": "music-production-basics",
+      "title": "Music Production Basics",
+      "description": "Learn how to record, mix, and produce your own music.",
+      "price": 99.99,
+      "instructors": ["David Kim"],
+      "isFeatured": true,
+      "image": "https://images.pexels.com/photos/8519710/pexels-photo-8519710.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 6,
+      "slug": "violin-for-beginners",
+      "title": "Violin for Beginners",
+      "description": "Start your violin journey with essential techniques and songs.",
+      "price": 54.99,
+      "instructors": ["Emily White"],
+      "isFeatured": false,
+      "image": "https://images.pexels.com/photos/164830/pexels-photo-164830.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 7,
+      "slug": "electronic-music-production",
+      "title": "Electronic Music Production",
+      "description": "Learn how to create electronic beats and synth sounds.",
+      "price": 89.99,
+      "instructors": ["Chris Brown"],
+      "isFeatured": true,
+      "image": "https://images.pexels.com/photos/2111015/pexels-photo-2111015.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 8,
+      "slug": "singing-masterclass",
+      "title": "Singing Masterclass",
+      "description": "Develop your vocal range and singing techniques.",
+      "price": 69.99,
+      "instructors": ["Jessica Taylor"],
+      "isFeatured": false,
+      "image": "https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg?auto=compress&cs=tinysrgb&w=800"
+    },
+    {
+      "id": 9,
+      "slug": "songwriting-101",
+      "title": "Songwriting 101",
+      "description": "Learn how to write lyrics and compose melodies.",
+      "price": 59.99,
+      "instructors": ["Luke Adams"],
+      "isFeatured": true,
+      "image": "https://images.pexels.com/photos/6670748/pexels-photo-6670748.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 20,
+      "slug": "film-scoring",
+      "title": "Film Scoring",
+      "description": "Learn how to compose music for films and TV.",
+      "price": 129.99,
+      "instructors": ["Natalie Cooper"],
+      "isFeatured": false,
+      "image": "https://images.pexels.com/photos/31560499/pexels-photo-31560499/free-photo-of-man-with-guitar-in-serene-outdoor-setting.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+}
