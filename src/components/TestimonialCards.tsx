@@ -50,7 +50,7 @@ function TestimonialCards() {
         <h2 className="text-3xl font-bold text-center mb-8 z-10">Hear our harmony: Voice of success</h2>
         <div className="flex justify-center overflow-hidden w-full px-4 sm:px-6 lg:px-8">
             <div className="w-full max-w-6xl">
-                <InfiniteMovingCards items={testimonials} direction="right" speed="normal" />
+                <InfiniteMovingCards items={testimonials} direction="right" speed="slow" />
             </div>
         </div>
     </div>
